@@ -10,15 +10,15 @@ This project applies the **ΔΔCt (Delta-Delta Ct)** method to analyze qPCR data
    Ct = the PCR cycle at which fluorescence surpasses background.
 
 2. **ΔCt Calculation**  
-   `DCt = Ct_target - Ct_reference`  
+   `ΔCt = Ct_target - Ct_reference`  
    Normalizes target gene expression to a housekeeping gene (*Tubulin*).
 
 3. **ΔΔCt Calculation**  
-   `DDCt = DCt_treated - DCt_control`  
+   `ΔΔCt = DCt_treated - ΔCt_control`  
    Compares treatment vs. control after normalization.
 
 4. **Fold Change**  
-   `Fold Change = 2^(-DDCt)`  
+   `Fold Change = 2^(-ΔΔCt)`  
    Fold change > 1 = upregulation; < 1 = downregulation.
 
 ---
