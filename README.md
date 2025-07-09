@@ -32,6 +32,9 @@ The Excel file includes:
   
 ---
 
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/84aae1f2-12e7-4163-a886-a04d33594d76" />
+
+---
 [2025_Excercise_qPCR - Yael Merlis.xlsx](https://github.com/user-attachments/files/21023756/2025_Excercise_qPCR.-.Yael.Merlis.xlsx)
 
 ---
