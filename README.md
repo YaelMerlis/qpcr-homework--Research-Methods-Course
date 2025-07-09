@@ -6,10 +6,10 @@ This project applies the **ΔΔCt (Delta-Delta Ct)** method to analyze qPCR data
 
 ##  Method Overview
 
-1. **Ct Measurement**  
+1. Ct Measurement
    Ct = the PCR cycle at which fluorescence surpasses background.
 
-2. **ΔCt Calculation**  
+2. ΔCt Calculation
    `ΔCt = Ct_target - Ct_reference`  
    Normalizes target gene expression to a housekeeping gene (*Tubulin*).
 
